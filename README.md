@@ -2,6 +2,9 @@
 
 A real-time chat app built with **React** (frontend) and **Node.js + Express + Socket.io + MongoDB** (backend).
 
+# Live Demo Url: 
+https://quick-chat-6meb.onrender.com
+
 ## Features
 
 **Core**
